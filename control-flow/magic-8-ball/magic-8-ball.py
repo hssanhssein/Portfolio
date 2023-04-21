@@ -1,3 +1,5 @@
+# In this project, I craeted a Python program that can answer any “Yes” or “No” question with a different fortune each time it executes.
+
 # I’ll be using the following 9 possible answers for my Magic 8-Ball:
 # Yes - definitely
 # It is decidedly so
